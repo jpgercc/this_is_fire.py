@@ -2,6 +2,8 @@
 
 A real-time ASCII fire simulation built with pygame. The flame reacts to how you drag the window — move it left or right and watch the fire lean with the wind.
 
+<img width="1363" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a846b748-67d0-424d-aeed-6a0cb4812323" />
+
 ---
 
 ## Requirements
